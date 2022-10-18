@@ -2,11 +2,12 @@
   "name": "dailycode-dark",
   "displayName": "DailyCode Dark",
   "description": "Dark theme based on DailyPay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "NicScott",
   "engines": {
     "vscode": "^1.70.0"
   },
+  "icon": "support/icon.png",
   "categories": [
     "Themes"
   ],
