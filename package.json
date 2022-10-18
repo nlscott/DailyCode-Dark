@@ -3,12 +3,21 @@
   "displayName": "DailyCode Dark",
   "description": "Dark theme based on DailyPay",
   "version": "1.0.1",
+  "publisher": "NicScott",
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
   ],
+"keywords": [
+    "theme",
+    "pay",
+    "dark",
+    "DailyPay",
+    "Code",
+    "Orange"
+],
   "contributes": {
     "themes": [
       {
@@ -17,5 +26,10 @@
         "path": "./themes/DailyCode Dark-color-theme.json"
       }
     ]
-  }
+  },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nlscott/DailyCode-Dark"
+    },
+    "homepage": "https://github.com/nlscott/DailyCode-Dark"
 }
