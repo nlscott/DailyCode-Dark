@@ -1,0 +1,21 @@
+{
+  "name": "dailycode-dark",
+  "displayName": "DailyCode Dark",
+  "description": "Dark theme based on DailyPay",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DailyCode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DailyCode Dark-color-theme.json"
+      }
+    ]
+  }
+}
