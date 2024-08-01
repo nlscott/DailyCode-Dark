@@ -1,5 +1,13 @@
 # Change Log
 
+## version 1.0.5
+
+### Add
+
+- DailyCode Darker theme
+
+
+---
 ## version 1.0.3
 
 ### Update
